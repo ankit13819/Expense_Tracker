@@ -1,0 +1,31 @@
+.expense__item{
+                  display: flex;
+                  border: 5px solid #d4a9a9;
+                  font-size: small;
+                  
+}    
+                                    
+
+.school{
+background: rgb(238, 236, 236);
+border: 2px solid yellow;
+flex: 1;
+}
+.amount__container{
+border: 2px solid red;
+border-radius: 12px;
+flex-wrap: 2rem;
+padding: 10px;
+color: white;
+font-size: large;
+font-style: normal;
+}
+.button{
+                  color: red;
+                  border-radius: 16px;
+                  margin-bottom: 5rem;
+                  margin-top: 2rem;
+}
+.input{
+                  margin-bottom: 40px;
+}
